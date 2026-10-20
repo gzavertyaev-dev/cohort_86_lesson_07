@@ -18,4 +18,10 @@ const users = [
     age: 25,
     job: "PM",
   },
+  {
+    firstName: "Anna",
+    lastName: "Main",
+    age: 20,
+    job: "Frontend Developer",
+  },
 ];
